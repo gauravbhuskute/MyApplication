@@ -7,6 +7,5 @@ public class App {
         System.out.println("Everything is fine!!!");
         System.out.println("Now start training");
         System.out.println("This is first day");
-        System.out.println("This is second day");
     }
 }
