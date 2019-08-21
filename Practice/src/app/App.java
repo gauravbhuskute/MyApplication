@@ -5,5 +5,7 @@ public class App {
         System.out.println("Hello Java");
         System.out.println("How are you?");
         System.out.println("Everything is fine!!!");
+        System.out.println("Now start training");
+
     }
 }
